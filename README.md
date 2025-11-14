@@ -1,4 +1,4 @@
-# ✨Complete Task To Get Role On Discord Base
+# 👾Complete Task To Get Role On Discord Base
 
 ⚙️ Bridge ETH Sepolia to Base Sepolia : https://superbridge.app/base-sepolia
 
