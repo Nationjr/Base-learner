@@ -11,7 +11,7 @@
 
 
 
-# 🎯Base Learn Newcomer
+# 📍Base Learn Newcomer
 - Go to : https://remix.ethereum.org/
 - Create new file or replace previous file
 - Submit script :
@@ -60,7 +60,7 @@ contract BasicMath {
 - Approve tx on wallet
 - Verify on Guild base
 
-# 🎯Base Learn Acolyte
+# 📍Base Learn Acolyte
 
 ## 🔵Control Structures Pin NFT
 - Go to : https://remix.ethereum.org/
@@ -313,7 +313,7 @@ contract EmployeeStorage {
 - Approve tx on wallet
 - Verify on Guild base
 
-# 🎯Base Learn Consul
+# 📍Base Learn Consul
 
 ## 🔵Mappings Pin NFTs
 - Go to : https://remix.ethereum.org/
@@ -631,7 +631,7 @@ contract GarageManager {
 - Approve tx on wallet
 - Verify on Guild base
 
-# 🎯Base Learn Perfect
+# 📍Base Learn Perfect
 
 ## 🔵Error Triage Pin NFTs
 - Go to : https://remix.ethereum.org/
@@ -885,7 +885,7 @@ contract ImportsExercise {
 - Approve tx on wallet
 - Verify on Guild base
 
-# 🎯Base Learn Supreme
+# 📍Base Learn Supreme
 
 ## 🔵SCD ERC721 Pin NFTs
 - Go to : https://remix.ethereum.org/
