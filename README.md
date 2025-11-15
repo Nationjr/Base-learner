@@ -1289,4 +1289,4 @@ contract WeightedVoting is ERC20 {
 
 <hr>
 
-## 🛜 Tutorial Youtube : [Visit Here](https://www.youtube.com/@airdropcom9)
+That's all for now, see you on the next one
